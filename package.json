@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "node app.js && sleep infinity"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "nodemon": "^3.0.3"
+    }
+}
