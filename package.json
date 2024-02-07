@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "nodemon app.js && sleep infinity"
+        "start": "sleep infinity"
     },
     "dependencies": {
         "colors": "^1.4.0",
