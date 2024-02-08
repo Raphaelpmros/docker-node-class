@@ -3,7 +3,7 @@ version: '3'
 services:
   node:
     build: .
-    container_name: node
+    container_name: node1
     ports:
       - "3000:3000"
     volumes:
